@@ -1,0 +1,19 @@
+how to run this project??
+
+Before running this project, you have to install packages, such as
+pip install numpy opencv-python
+pip install opencv-python
+pip install ultralytics
+
+1. open vs code and open the project folder
+2. open terminal 
+3. to execute video detection from selected file type  "python real_time_video_detector.py"
+                    after execuitng this file press "q" to exit
+
+4. to execute image detection from selected file type  "python real_time_image_detector.py"
+                    after execuitng this file press "q" to exit
+
+5. to execute object detection from live webcam  type  "python real_time_yolo_webcam.py"
+                    press "q" to exit the execution
+
+
